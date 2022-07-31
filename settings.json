@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "TOT-SMP-Watcher",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "TOT_SMP.aternos.me",
+    "port": 16779,
+    "version": "1.18.1"
   },
 
   "position": {
@@ -30,15 +30,14 @@
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 250,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "I'm a TOT-SMP-Watcher ",
+        "Visit coprightgaming.blogspot.com ",
+        "Visit youtube.com/channel/UCR_DKeJYGbg3Csd18myg8FA "
       ]
     },
 
